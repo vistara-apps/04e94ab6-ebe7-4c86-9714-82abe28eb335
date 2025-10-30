@@ -1,0 +1,14 @@
+{
+  "name": "Zara Agent Portfolio",
+  "description": "Zara Agent Portfolio is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://04e94ab6-ebe7-4c86-9714-82abe28eb335.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Zara Agent Portfolio",
+      "description": "Zara Agent Portfolio is a Base Mini App built with Zara.",
+      "url": "https://04e94ab6-ebe7-4c86-9714-82abe28eb335.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

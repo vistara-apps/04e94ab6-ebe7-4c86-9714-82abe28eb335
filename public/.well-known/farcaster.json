@@ -7,11 +7,11 @@
   "frame": {
     "version": "next",
     "name": "Zara Agent Portfolio",
-    "homeUrl": "https://zara-agent-portfolio.com",
+    "homeUrl": "https://app-e28eb335-59w0.vercel.app",
     "iconUrl": "https://zara-agent-portfolio.com/zara-icon.png",
     "splashImageUrl": "https://zara-agent-portfolio.com/zara-splash.png",
     "splashBackgroundColor": "#0a0b0d",
-    "webhookUrl": "https://zara-agent-portfolio.com/api/farcaster/webhook",
+    "webhookUrl": "https://app-e28eb335-59w0.vercel.app/api/webhook",
     "subtitle": "AI-powered portfolio management",
     "description": "AI-powered portfolio management and agent-assisted trading on Base, integrated with Farcaster.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://zara-agent-portfolio.com/screenshot3.png"
     ],
     "primaryCategory": "finance",
-    "tags": ["defi", "trading", "ai", "portfolio", "base"],
+    "tags": [
+      "defi",
+      "trading",
+      "ai",
+      "portfolio",
+      "base"
+    ],
     "heroImageUrl": "https://zara-agent-portfolio.com/hero.png",
     "tagline": "Smart trading with AI agents",
     "ogTitle": "Zara Agent Portfolio",
